@@ -1,3 +1,4 @@
+#borrre la las keys por seguridad, ya que amazon aws es pago y podrian generarme problemas
 cloud:
   aws:
     region:
@@ -5,8 +6,8 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAWSLKWBK7AO6RKC3P
-      secret-key: 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
+      access-key: 
+      secret-key: 
 logging:
   level:
     com:
